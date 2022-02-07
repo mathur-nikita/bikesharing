@@ -8,14 +8,29 @@ After using a bike share service to travel around New York City with our friend 
 
 ### Resources
 
-#### Link to Tableau Story: [Citi Bike Bikeshare Service Analysis](https://public.tableau.com/app/profile/nikita.mathur2534/viz/CitiBikeBikeshareService/CitiBikeBikeshareService)
+- Link to Tableau Story: [Citi Bike Bikeshare Service Analysis](https://public.tableau.com/app/profile/nikita.mathur2534/viz/CitiBikeBikeshareService/CitiBikeBikeshareService)
+- screenshots folder containing images from the Tableau story
 
 ## Results 
 
 ### Results of Analysis
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+Out of the 2,344,224 riders recorded, about 81% of them are annual subscribers while about 19% of them are short-term customers.
+![screenshots/customers_vs_subscribers.JPG](https://github.com/mathur-nikita/bikesharing/blob/main/screenshots/customers_vs_subscribers.JPG)
+
+![screenshots/starting_points.JPG](https://github.com/mathur-nikita/bikesharing/blob/main/screenshots/starting_points.JPG)
+
+![screenshots/ending_points.JPG](https://github.com/mathur-nikita/bikesharing/blob/main/screenshots/ending_points.JPG)
+
+![screenshots/checkout_times.JPG](https://github.com/mathur-nikita/bikesharing/blob/main/screenshots/checkout_times.JPG)
+
+![screenshots/checkout_times_by_gender.JPG](https://github.com/mathur-nikita/bikesharing/blob/main/screenshots/checkout_times_by_gender.JPG)
+
+![screenshots/trips_per_hour.JPG](https://github.com/mathur-nikita/bikesharing/blob/main/screenshots/trips_per_hour.JPG)
+
+![screenshots/trips_per_hour_per_gender.JPG](https://github.com/mathur-nikita/bikesharing/blob/main/screenshots/trips_per_hour_per_gender.JPG)
+
+![screenshots/trips_by_gender_by_weekday.JPG](https://github.com/mathur-nikita/bikesharing/blob/main/screenshots/trips_by_gender_by_weekday.JPG)
 
 ### Summary of Results
 
