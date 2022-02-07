@@ -8,7 +8,7 @@ After using a bike share service to travel around New York City with our friend 
 
 ### Resources
 
-#### Link to Tableau Story:
+#### Link to Tableau Story: [Citi Bike Bikeshare Service Analysis](https://public.tableau.com/app/profile/nikita.mathur2534/viz/CitiBikeBikeshareService/CitiBikeBikeshareService)
 
 ## Results 
 
