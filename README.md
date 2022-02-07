@@ -55,6 +55,6 @@ The Citi Bike bikeshare service seems to be a popular option for traveling aroun
 
 Two additional visualizations are suggested for future analysis:
 
-1) It would be great to have more information on short-term customers who become annual subscribers to estimate the number of people who would be more likely to use the service regularly after giving it a trial run.  Information on subscribers cancelling their subscriptions and/or converting to short-term customers would also help in determining if the service retains its popularty after time has passed.
+1) It would be great to have more information on short-term customers who become annual subscribers to estimate the number of people who would be more likely to use the service regularly after giving it a trial run.  Information on subscribers cancelling their subscriptions and/or converting to short-term customers would also help in determining if the service retains its popularity after time has passed.
 
 2) The information we collected was for the month of August, a time when the weather is more pleasant in NYC.  It would make sense to collect information on the usage of the bikeshare service during times of the year with different weather (rainy seasons, winter, etc.).  Based on that and the weather patterns in Des Moines we could then determine the usage of bikeshare service predicted througout the year.
